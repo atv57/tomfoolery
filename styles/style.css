@@ -51,6 +51,7 @@ body{
   }
 #move{
     position: relative;
+    margin-top: 100px;
 }
 img{
     position: fixed;
